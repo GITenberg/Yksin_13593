@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13593#Yksin
 gutenberg_issued: '2004-10-04'
 gutenberg_type: Text
 identifiers:
